@@ -1,10 +1,10 @@
 # Quantum Computing exercises in Q#
 
+This repository is a collection of sample Quantum Computing programs and exercises written in Q#.
+
 <div align="center">
   <img alt="Quantum Computing" src="https://raw.githubusercontent.com/move-fast-and-break-things/quantum-computing-exercises/main/quantum-computing.webp" width="600px" />
 </div>
-
-This repository is a collection of sample Quantum Computing programs and exercises written in Q#.
 
 ## Getting started
 
