@@ -1,4 +1,4 @@
-# Quantum Computing sample programs and exercises in Q#
+# Quantum Computing exercises in Q#
 
 <div align="center">
   <img alt="Quantum Computing" src="https://raw.githubusercontent.com/move-fast-and-break-things/quantum-computing-exercises/main/quantum-computing.webp" width="600px" />
