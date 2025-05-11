@@ -9,7 +9,13 @@ This repository is a collection of sample Quantum Computing programs and exercis
 ## Getting started
 
 - Acquire basic knowledge of classical programming concepts
-- Acquire a basic understanding of quantum computing concepts; start with the amazing [Quantum Computing for Computer Scientists presentation from Microsoft Research](https://www.youtube.com/watch?v=F_Riqjdh2oM)
+- Acquire a basic understanding of quantum computing
+  - Start with the amazing videos from 3Blue1Brown:
+    - [But what is quantum computing? (Grover's Algorithm)
+](https://www.youtube.com/watch?v=RQWpF2Gb-gU)
+    - [Where my explanation of Grover’s algorithm failed
+](https://www.youtube.com/watch?v=Dlsa9EBKDGI)
+  - And proceed by watching a great [Quantum Computing for Computer Scientists presentation from Microsoft Research](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 - Install the latest version of [Visual Studio Code](https://code.visualstudio.com/download)
 - Install the latest version of the [Azure Quantum Development Kit](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode) extension
 
